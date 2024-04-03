@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-const Loader = () => (
+const Loader4 = () => (
   <div className='flex h-screen w-screen flex-col items-center justify-center gap-2'>
     <Image
       src='/assets/loader.gif'
@@ -13,4 +13,4 @@ const Loader = () => (
   </div>
 );
 
-export default Loader;
+export default Loader4;

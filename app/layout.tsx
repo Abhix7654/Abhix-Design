@@ -10,7 +10,7 @@ const WorkSans = Work_Sans({
    });
 
 export const metadata: Metadata = {
-  title: "Abhishek Editor",
+  title: "AbhiX Design",
   description: "Multi User Designing Website",
 };
 
@@ -28,4 +28,4 @@ export default function RootLayout({
       </body>
     </html>
   );
-}
+  }
